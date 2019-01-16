@@ -1,0 +1,8 @@
+# build file
+/build
+/.vscode
+GPATH
+GRTAGS
+GTAGS
+.clang
+.clang-format
